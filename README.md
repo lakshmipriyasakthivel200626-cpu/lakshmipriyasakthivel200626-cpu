@@ -4,8 +4,8 @@
 
 ### Aspiring Software Engineer • Java Developer • Full-Stack Learner
 
-Building practical applications and continuously improving my
-programming, problem-solving, and software development skills.
+Building practical applications, strengthening my problem-solving skills,
+and continuously learning modern software development technologies.
 
 </div>
 
@@ -17,7 +17,7 @@ programming, problem-solving, and software development skills.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Frontend
 
@@ -28,43 +28,80 @@ programming, problem-solving, and software development skills.
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=rest&logoColor=white)
 
 ### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Tools & Practices
+### Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### Core Concepts
+### AI / Intelligent Systems
 
-`OOP` • `Data Structures` • `Problem Solving` • `Git-Based Workflows`
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=python&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-4285F4?style=flat-square&logo=google&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## ✦ About Me
+## ✦ Projects
 
-- 🎓 B.E. Computer Science and Engineering student
-- 💻 Interested in software and full-stack development
-- ☕ Building my foundation in **Java**
-- 🗄️ Currently strengthening my **SQL** skills
-- 🌱 Learning **Spring Boot, JavaScript and REST APIs**
-- 🚀 Interested in building practical, real-world applications
-- 🧠 Enjoy problem solving and continuous learning
-- 📍 Coimbatore, Tamil Nadu, India
+### 🧠 NexaSense — AI-Driven Learning Platform
+
+**2024 – 2025**
+
+An AI-driven learning platform designed to transform unstructured study
+materials into structured, exam-ready content.
+
+- Processes handwritten notes and PDFs using **OCR and NLP**
+- Performs automated content extraction and summarization
+- Provides semantic search for study materials
+- Includes an interactive dashboard to track learning progress
+
+---
+
+### ✈️ TravoBuddy — Travel Planning Platform
+
+**2024 – 2025**
+
+A full-stack travel planning platform designed to help users organize
+and manage their trips dynamically.
+
+- Real-time event updates
+- Transportation management
+- Budget and expense tracking
+- Weather forecasting
+- Schedule management and dynamic travel planning
+
+---
+
+### 🛡️ Women's Safety Device with GPS Tracking
+
+**2023 – 2024**
+
+An Arduino-based safety device designed for emergency communication
+and real-time location sharing.
+
+- GPS-based location tracking
+- Instant emergency alerts
+- Real-time location sharing
+- Customizable emergency communication
 
 ---
 
 ## ✦ Experience
 
 <details>
-<summary><b>Nxtlogics Software Solutions • Full-Stack Web Development Intern • 2024–2025</b></summary>
+<summary><b>Nxtlogics Software Solutions — Full-Stack Web Development Intern</b></summary>
 
 <br>
+
+**2024 – 2025**
 
 `HTML` `CSS` `JavaScript` `Node.js`
 
@@ -78,104 +115,120 @@ programming, problem-solving, and software development skills.
 
 ---
 
-## ✦ Projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| 🧠 **NexaSense** | OCR • NLP • Full Stack | AI-driven learning platform for extracting, summarizing and searching study materials |
-| ✈️ **TravoBuddy** | Full Stack • APIs | Travel planning with events, transportation, budgeting and weather updates |
-| 🛡️ **Women's Safety Device** | Arduino • GPS | GPS tracking and instant emergency alerts |
-
-### 🧠 NexaSense — AI-Driven Learning Platform
-
-An AI-driven learning platform that processes unstructured study materials.
-
-- OCR and NLP based content extraction
-- Converts handwritten notes and PDFs into structured content
-- Automated summarization
-- Semantic search
-- Interactive learning-progress dashboard
-
-### ✈️ TravoBuddy — Travel Planning Platform
-
-A full-stack platform designed to simplify travel planning.
-
-- Real-time event updates
-- Transportation management
-- Budget tracking
-- Weather forecasting
-- Schedule and expense management
-
-### 🛡️ Women's Safety Device with GPS Tracking
-
-An Arduino-based safety device designed for emergency communication.
-
-- GPS-based location tracking
-- Instant alerts
-- Real-time location sharing
-- Customizable emergency communication
-
----
-
-## ✦ Certifications
-
-- ☁️ **NPTEL Elite Certification — Cloud Computing**
-  - IIT Kharagpur
-  - Score: **73%**
-
-- 🌐 **NPTEL — Introduction to IoT**
-  - Score: **67%**
-
-- 💻 **Full-Stack Web Development Certification**
-  - Nxtlogics Software Solutions
-
----
-
-## ✦ Achievements
-
-🏆 **Smart India Hackathon 2024**  
-Selected in the internal college-level round — *Direct Market Access for Farmers*
-
-🏆 **Smart India Hackathon 2025**  
-Selected in the internal college-level round — *Animal Breed Classification*
-
-💡 **SLIDESCAPE — INFERIX'24**  
-Technical symposium participation.
-
----
-
 ## ✦ Education
 
 **Bachelor of Engineering — Computer Science and Engineering**
 
 **Dr. N.G.P. Institute of Technology**
 
-`Expected 2027` • `CGPA: 8.08`
+`Expected Graduation: 2027` • `CGPA: 8.08`
+
+---
+
+## ✦ Certifications
+
+### ☁️ NPTEL Elite Certification — Cloud Computing
+
+**IIT Kharagpur**
+
+Score: **73%**
+
+### 🌐 NPTEL — Introduction to IoT
+
+Score: **67%**
+
+### 💻 Full-Stack Web Development Certification
+
+**Nxtlogics Software Solutions**
+
+---
+
+## ✦ Workshops
+
+- 🤖 Machine Learning Workshop — **CRYPTERA 2024**
+- ⚛️ Quantum Computing Workshop — **YUGAM 2024**
+
+---
+
+## ✦ Achievements
+
+### 🏆 Smart India Hackathon 2024
+
+Selected in the internal college-level round.
+
+**Problem:** Direct Market Access for Farmers
+
+### 🏆 Smart India Hackathon 2025
+
+Selected in the internal college-level round.
+
+**Problem:** Animal Breed Classification
+
+### 💡 SLIDESCAPE — INFERIX'24
+
+Participated in a technical symposium organized by
+**Bannari Amman Institute of Technology**.
 
 ---
 
 ## ✦ Currently Learning
 
-```text
-Java
- ├── OOP
- ├── Data Structures
- └── Problem Solving
+### ☕ Java
 
-Spring Boot
- ├── REST APIs
- └── Backend Development
+`OOP` • `Data Structures` • `Problem Solving`
 
-SQL
- ├── Queries
- ├── Joins
- └── Database Management
+### 🌱 Spring Boot
 
-JavaScript
- ├── DOM
- └── APIs
+`REST APIs` • `Backend Development`
 
-Full-Stack Development
- ├── Frontend
- ├── Backend
- └── Database
+### 🗄️ SQL
+
+`Queries` • `Joins` • `Database Management`
+
+### 🌐 JavaScript
+
+`DOM` • `APIs` • `Modern JavaScript`
+
+### 🚀 Full-Stack Development
+
+`Frontend` • `Backend` • `Database`
+
+---
+
+## ✦ GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/lakshmipriyasakthivel200626-cpu">
+<img src="https://github-readme-stats.vercel.app/api?username=lakshmipriyasakthivel200626-cpu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+</a>
+
+</div>
+
+---
+
+## ✦ Connect
+
+<div align="center">
+
+<a href="https://github.com/lakshmipriyasakthivel200626-cpu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lakshmi-priya-s-4b3a37326">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lakshmipriyasakthivel200626@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Learn • Build • Improve • Repeat 🚀
+
+</div>
