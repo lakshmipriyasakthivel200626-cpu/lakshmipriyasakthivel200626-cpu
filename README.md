@@ -1,15 +1,15 @@
 <div align="center">
 
-# Lakshmi Priya S
-
-### Aspiring Software Engineer • Java Developer • Full-Stack Learner
-
-Building practical applications, strengthening my problem-solving skills,
-and continuously learning modern software development technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4285F4&center=true&vCenter=true&width=850&lines=JAVA+DEVELOPER+%E2%80%A2+FULL-STACK+LEARNER;SOFTWARE+ENGINEER+ASPIRANT+%E2%80%A2+AI%2FML+ENTHUSIAST;JAVA+%E2%80%A2+SQL+%E2%80%A2+FULL-STACK+DEVELOPMENT" />
 
 </div>
 
----
+# Lakshmi Priya S
+
+**Aspiring Software Engineer • Java Developer • Full-Stack Learner**
+
+Building practical applications, strengthening my problem-solving skills,
+and continuously learning modern software development technologies.
 
 ## ✦ Stack
 
@@ -47,52 +47,15 @@ and continuously learning modern software development technologies.
 ![OCR](https://img.shields.io/badge/OCR-4285F4?style=flat-square&logo=google&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&logo=python&logoColor=white)
 
----
+### ✦ Projects
 
-## ✦ Projects
-
-### 🧠 NexaSense — AI-Driven Learning Platform
-
-**2024 – 2025**
-
-An AI-driven learning platform designed to transform unstructured study
-materials into structured, exam-ready content.
-
-- Processes handwritten notes and PDFs using **OCR and NLP**
-- Performs automated content extraction and summarization
-- Provides semantic search for study materials
-- Includes an interactive dashboard to track learning progress
-
----
-
-### ✈️ TravoBuddy — Travel Planning Platform
-
-**2024 – 2025**
-
-A full-stack travel planning platform designed to help users organize
-and manage their trips dynamically.
-
-- Real-time event updates
-- Transportation management
-- Budget and expense tracking
-- Weather forecasting
-- Schedule management and dynamic travel planning
-
----
-
-### 🛡️ Women's Safety Device with GPS Tracking
-
-**2023 – 2024**
-
-An Arduino-based safety device designed for emergency communication
-and real-time location sharing.
-
-- GPS-based location tracking
-- Instant emergency alerts
-- Real-time location sharing
-- Customizable emergency communication
-
----
+| Project | Description | Links |
+|---|---|---|
+| **NexaSense** | AI-driven learning platform using OCR and NLP to transform study materials into structured, exam-ready content. | [GitHub](https://github.com/kevinkr7/Nexasense) |
+| **TravoBuddy** | Full-stack travel planning platform with event updates, transportation management, budget tracking, weather forecasting, and dynamic trip planning. | [GitHub](https://github.com/lakshmipriyasakthivel200626-cpu/TravoBuddy) |
+| **URL Shortener Analytics** | Web application for creating shortened URLs and tracking URL analytics. | [GitHub](https://github.com/lakshmipriyasakthivel200626-cpu/URL-shortener-analytics) |
+| **AI Chatbot Assistant** | AI-powered chatbot application for interactive user assistance. | [GitHub](https://github.com/lakshmipriyasakthivel200626-cpu/AI-chatbot-assistant) |
+| **PlantGenix** | Plant-related software project developed using modern web technologies. | [GitHub](https://github.com/lakshmipriyasakthivel200626-cpu/PlantGenix) |
 
 ## ✦ Experience
 
