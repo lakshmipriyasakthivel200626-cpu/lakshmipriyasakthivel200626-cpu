@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4285F4&center=true&vCenter=true&width=850&lines=JAVA+DEVELOPER+%E2%80%A2+FULL-STACK+LEARNER;SOFTWARE+ENGINEER+ASPIRANT+%E2%80%A2+AI%2FML+ENTHUSIAST;JAVA+%E2%80%A2+SQL+%E2%80%A2+FULL-STACK+DEVELOPMENT" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4285F4&center=true&vCenter=true&width=850&lines=JAVA+DEVELOPER+%E2%80%A2+FULL-STACK+DEVELOPER;SOFTWARE+ENGINEER+ASPIRANT+%E2%80%A2+WEB-DEVELOPER;JAVA+%E2%80%A2+SQL+%E2%80%A2+FULL-STACK+DEVELOPMENT" />
 
 </div>
 
